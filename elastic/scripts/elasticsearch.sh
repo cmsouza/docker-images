@@ -1,6 +1,4 @@
 #!/bin/bash
-source /etc/sysconfig/elasticsearch
-
 ES=/usr/share/elasticsearch/bin/elasticsearch
 PIDFILE=/var/run/elasticsearch/elasticsearch.pid
 LOGPATH=/var/log/elasticsearch
